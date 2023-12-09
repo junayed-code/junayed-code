@@ -4,10 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-<!-- CSS styles -->
-<link rel="stylesheet" href="./styles.css" />
-<!-- 
-# Hi Everyone, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Junayed Akbor -->
+<!--
+# Hi Everyone, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4334474e.gif)I'm Junayed Akbor -->
 
 <img src="./images/banner.gif" width="100%" />
 
@@ -15,11 +13,13 @@
 
 <!-- I am a self-taught junior-level full-stack web developer. My first programming language was Python, but I later decided to focus on web development. To do so, I started learning JavaScript, HTML, and CSS. I also learned modern front-end libraries like React, React Router, Tailwind CSS, and others. For the backend, I learned NodeJS, Express JS, MongoDB, and the Mongoose library. Additionally, I gained knowledge about Firebase. I have finally become a self-taught MERN stack web developer. -->
 
-#### - 🌍  I'm based in Bangladesh | Remotely
+## 🫥 A brief overview of myself
 
-#### - ✉️  You can contact me at [junayedakbour@gmail.com](mailto:junayedakbour@gmail.com)
+#### - 🌍  I'm based in Bangladesh
 
 #### - 🌱  I'm currently discovering Next JS
+
+#### - ✉️  You can contact me at [junayedakbour@gmail.com](mailto:junayedakbour@gmail.com)
 
 #### - ⚡ Fun tidbit - I'm a powerful man in the web industry. I invented chatGPT😎.
 
@@ -31,37 +31,37 @@
 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="44" height="44" alt="Git" />
   </a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="44" height="44" alt="JavaScript" />
   </a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="44" height="44" alt="HTML5" />
   </a>&nbsp;&nbsp;
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="44" height="44" alt="CSS3" />
   </a>&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="44" height="44" alt="React" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="44" height="44" alt="TailwindCSS" />
   </a>&nbsp;&nbsp;
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="44" height="44" alt="NodeJS" />
   </a>&nbsp;&nbsp;
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="44" height="44" alt="Express" />
   </a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="44" height="44" alt="MongoDB" />
   </a>&nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="44" height="44" alt="Firebase" />
   </a>
 </p>
 
