@@ -5,7 +5,7 @@
 - 📫 How to reach me ... -->
 
 <!-- CSS styles -->
-<link rel="stylesheet" href="./styles.css">
+<link rel="stylesheet" href="./styles.css" />
 <!-- 
 # Hi Everyone, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Junayed Akbor -->
 
@@ -101,7 +101,7 @@
 
 <br />
 
-<p style="text-align: center">
+<p align="center">
   <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=junayed-code&stroke=ffffff&background=22272e&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </p>
